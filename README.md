@@ -7,27 +7,14 @@
 ## For aeronautical maintenance mechanic, avionic group, the exam is composed of the avionic modules. As table bellow:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
-| Bas | 01 | ![](https://img.shields.io/badge/-Doing-important) | Oral and Written Communication |
-| Bas | 02 | ![](https://img.shields.io/badge/-Doing-important) | Mathematics |
-| Bas | 03 | ![](https://img.shields.io/badge/-Done-success) | Natural Sciences |
-| Bas | 04 | ![](https://img.shields.io/badge/-Done-success) | Technical Drawing |
-| Bas | 05 | ![](https://img.shields.io/badge/-Done-success) | Basic and Technical English |
-| Bas | 06 | ![](https://img.shields.io/badge/-Done-success) | Basic Knowledge of Fixed and Rotary Wing Aircraft |
-| Bas | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aeronautical Materials Technology |
-| Bas | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Corrosion Control in Aeronautical Materials |
-| Bas | 09 | ![](https://img.shields.io/badge/-ToDo-inactive) | Pipes and Fittings |
-| Bas | 10 | ![](https://img.shields.io/badge/-ToDo-inactive) | Fuels and Fuel Systems |
-| Bas | 11 | ![](https://img.shields.io/badge/-ToDo-inactive) | Basic Electricity |
-| Bas | 12 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aviation Electric Generators And Engines |
-| Bas | 13 | ![](https://img.shields.io/badge/-Done-success) | Weight and Balance |
-| Bas | 14 | ![](https://img.shields.io/badge/-Done-success) | Metrology and Tools |
-| Bas | 15 | ![](https://img.shields.io/badge/-ToDo-inactive) | Maintenance Inspection and Documentation Principles |
-| Bas | 16 | ![](https://img.shields.io/badge/-ToDo-inactive) | Ground Handling, Safety and Support Equipment |
-| Bas | 17 | ![](https://img.shields.io/badge/-Done-success) | Civil Aviation Regulation |
-| Bas | 18 | ![](https://img.shields.io/badge/-ToDo-inactive) | Regulation of the Mechanic Profession |
-| Bas | 19 | ![](https://img.shields.io/badge/-Doing-important) | Operational Security |
-| Bas | 20 | ![](https://img.shields.io/badge/-ToDo-inactive) | Human Factors in Aeronautical Maintenance |
-| Bas | 21 | ![](https://img.shields.io/badge/-Done-success) | First Aid |
+| Avi | 01 | ![](https://img.shields.io/badge/-ToDo-inactive) | Technical English - Avionics |
+| Avi | 02 | ![](https://img.shields.io/badge/-ToDo-inactive) | Basic Electronics |
+| Avi | 03 | ![](https://img.shields.io/badge/-ToDo-inactive) | Digital Electronics |
+| Avi | 04 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
+| Avi | 05 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electric Engine Starting And Ignition Systems |
+| Avi | 06 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electrical Protection Systems Against The Effects Of Ice, Rain And Fire |
+| Avi | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Communication and Navigation Systems |
+| Avi | 08 | ![](https://img.shields.io/badge/-ToDo-inactive) | Avionics Inspection |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
