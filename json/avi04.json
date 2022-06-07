@@ -5,7 +5,7 @@
    "questions":[
       {
          "title":"Em zonas onde os conduítes podem ser danificados por pedras esses recebem jaqueta especial dê?",
-         "result":3,
+         "result":2,
          "options":[
             "Liga de aluminio",
             "Alumel",
@@ -16,7 +16,7 @@
       },
       {
          "title":"É correto afirmar que:",
-         "result":0,
+         "result":3,
          "options":[
             "Quanto maior a bitola maior o diâmetro do fio",
             "Quanto menor a bitola menor o diâmetro do fio",
@@ -213,8 +213,8 @@
          "number":18
       },
       {
-         "title":"Um conector resistent à vibração e à umidade é o conector:",
-         "result":2,
+         "title":"Um conector resistente à vibração e à umidade é o conector:",
+         "result":3,
          "options":[
             "Classe F",
             "Classe K",
@@ -236,7 +236,7 @@
       },
       {
          "title":"As baterias que possuem como componente químico o eletrólito KOH são:",
-         "result":2,
+         "result":3,
          "options":[
             "Níquel-Cádmio e Chumbo-ácido",
             "Chumbo-ácido e Lítio",
@@ -258,7 +258,7 @@
       },
       {
          "title":"Os interruptores de duas posições 'liga-desliga' devem ser instalados de modo que a posição 'liga' seja alcançada movimentando-se:",
-         "result":2,
+         "result":3,
          "options":[
             "A alavanca simplesmente para um locado ou para o outro",
             "A alavanca para direita ou para frente",
