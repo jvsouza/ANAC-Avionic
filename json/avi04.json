@@ -1,0 +1,282 @@
+{
+   "contentType":"Avi",
+   "contentIndex":4,
+   "courseunit":"Aircraft Electrical Systems",
+   "questions":[
+      {
+         "title":"Em zonas onde os conduítes podem ser danificados por pedras esses recebem jaqueta especial dê?",
+         "result":3,
+         "options":[
+            "Liga de aluminio",
+            "Alumel",
+            "Fluorocarbono",
+            "Constantan"
+         ],
+         "number":0
+      },
+      {
+         "title":"É correto afirmar que:",
+         "result":0,
+         "options":[
+            "Quanto maior a bitola maior o diâmetro do fio",
+            "Quanto menor a bitola menor o diâmetro do fio",
+            "Quanto maior o diâmetro do fio maior a bitola",
+            "Quanto maior o diâmetro do fio menor a bitola"
+         ],
+         "number":1
+      },
+      {
+         "title":"Para identificação do condutores termopar entre os seguintes códigos de letras o que deve ser usado é?",
+         "result":0,
+         "options":[
+            "cr-cromel",
+            "nq-niquel",
+            "al-aluminio",
+            "cb-cobre"
+         ],
+         "number":2
+      },
+      {
+         "title":"Quais os dois condutores mais comunentes usados na aviação?",
+         "result":3,
+         "options":[
+            "Ouro e prata",
+            "Bronze e cobre",
+            "Germânio e silício",
+            "Cobre e aluminio"
+         ],
+         "number":3
+      },
+      {
+         "title":"Qual o valor satisfatório da resistência medida entre o ponto massa da fonte geradora até o terminal dos componetes",
+         "result":3,
+         "options":[
+            "0.05",
+            "0.0005",
+            "0.5x10^-2",
+            "0.005"
+         ],
+         "number":4
+      },
+      {
+         "title":"Na aviação quais os tipos de isolantes não são mais usados nos sistemas elétricos?",
+         "result":0,
+         "options":[
+            "Borracha, seda e papel",
+            "Vinil, algodão e amianto mineral",
+            "Teflon, adamantium e plástico",
+            "Silica gel, isopropileno e fibra de vidro"
+         ],
+         "number":5
+      },
+      {
+         "title":"Dois ou mais fios indo para o mesmo local juntamente amarrados para identificar o grupo a qual pertencem são:",
+         "result":3,
+         "options":[
+            "Chicote",
+            "Cabo",
+            "Enlace",
+            "Grupo frios"
+         ],
+         "number":6
+      },
+      {
+         "title":"Dois ou mais grupos de fios amarrados juntos, indo na mesma direção para um ponto onde a amarração está localizada, chama-se?",
+         "result":2,
+         "options":[
+            "Grupo de fios",
+            "Enlace",
+            "Chicote",
+            "Conjunto de fios"
+         ],
+         "number":7
+      },
+      {
+         "title":"Quando é utilizado o gromete?",
+         "result":3,
+         "options":[
+            "Quando os fios se aproximarem mais de 1/2 polegada da borda do orifício",
+            "Quando os fios se distanciarem mais de 1/2 polegada da borda do orifício",
+            "Quando os fios se aproximarem mais de 3/4 polegada da borda do orifício",
+            "Quando os fios se aproximarem mais de 1/4 polegada da borda do orifício"
+         ],
+         "number":8
+      },
+      {
+         "title":"Qual a folga/distância mínima deve-se manter uma fiação dos cabos de controle?",
+         "result":1,
+         "options":[
+            "1/4 de polegadas",
+            "3 polegadas",
+            "3/4 de polegadas",
+            "2 polegadas"
+         ],
+         "number":9
+      },
+      {
+         "title":"A resistência do isolamento do condutor pode ser medida:",
+         "result":3,
+         "options":[
+            "con um ohmimetro",
+            "com um medidor dinamometrico",
+            "com um multimetro",
+            "com um medidor megger"
+         ],
+         "number":10
+      },
+      {
+         "title":"Dos dios abaixo, qual possui melhor condutiividade considerando a bitola e o material?",
+         "result":3,
+         "options":[
+            "Fio 10 de aluminio",
+            "Fio 10 de cobre",
+            "Fio 8 de aluminio",
+            "Fio 8 de cobre"
+         ],
+         "number":11
+      },
+      {
+         "title":"O que acotence com a corrente elétrica se aumentar-mos a resistência de um condutor?",
+         "result":2,
+         "options":[
+            "Aumenta",
+            "Torna-se nula",
+            "Diminui",
+            "Não varia"
+         ],
+         "number":12
+      },
+      {
+         "title":"Na identificação de condutores a letra 'RC' indica ser um condutor do sistema de:",
+         "result":1,
+         "options":[
+            "Radio Comunicação",
+            "Comando",
+            "Radio controle",
+            "Mapeamento"
+         ],
+         "number":13
+      },
+      {
+         "title":"Qual o tipo de material usado para amarrar um chicote?",
+         "result":1,
+         "options":[
+            "Plástico",
+            "Algodão",
+            "Cobre",
+         ],
+            "Aço inox"
+         "number":14
+      },
+      {
+         "title":"Toda fiação deve ser instalada de modo que ela seja firme e de boa aparência. Sempre que possível, devem correr paralelas ou em ângulos retos com as nervuras ou longarinas da área envolvida. Como exceção dessa regra tempo o:",
+         "result":2,
+         "options":[
+            "Chicote que orientado tão diretamente quando possivel",
+            "Cabo multicondutor que orientado tão diretamente quanto possivel",
+            "Cabo coaxial que orientado tão diretamente quanto possivel",
+            "Par torcido que orientado tão diretamente quanto possivel"
+         ],
+         "number":15
+      },
+      {
+         "title":"É correto afirmar que:",
+         "result":0,
+         "options":[
+            "Um fio nunca deve passar por baixo de uma bateria",
+            "Um fio nunca deve passar por cima de uma bateria",
+            "Um fio sempre deve passar por baixo de uma bateria",
+            "Um fio as vezes pode passar por baixo de uma bateria"
+         ],
+         "number":16
+      },
+      {
+         "title":"A amarração é iniciada na extremidade do grupo de fios ou chicote com nó denominado",
+         "result":2,
+         "options":[
+            "Nó cego",
+            "Nó de escoteiro",
+            "Nó de porco",
+            "Nó de marinheiro"
+         ],
+         "number":17
+      },
+      {
+         "title":"Um conector à prova de fogo usado em áreas onde é vital que a corrente elétrica não seja interrompida, é o conector:",
+         "result":1,
+         "options":[
+            "Classe A",
+            "Classe K",
+            "Classe F",
+            "Classe S"
+         ],
+         "number":18
+      },
+      {
+         "title":"Um conector resistent à vibração e à umidade é o conector:",
+         "result":2,
+         "options":[
+            "Classe F",
+            "Classe K",
+            "Classe A",
+            "Classe D"
+         ],
+         "number":19
+      },
+      {
+         "title":"Os blocos terminais são geralmente equipados com estojos retidos por?",
+         "result":2,
+         "options":[
+            "Uma arruela freno, um parafuso e uma porca",
+            "Uma porca castelo, uma arruela-freno e uma arruaela de pressão",
+            "Uma arruela lisa, uma arruela-freno e uma porca",
+            "Uma arruela simples, uma arruela-freno e uma porca castelo"
+         ],
+         "number":20
+      },
+      {
+         "title":"As baterias que possuem como componente químico o eletrólito KOH são:",
+         "result":2,
+         "options":[
+            "Níquel-Cádmio e Chumbo-ácido",
+            "Chumbo-ácido e Lítio",
+            "Níquel-Cádmio e Lítio",
+            "Prata-zinco e Níquel-Cádmio"
+         ],
+         "number":21
+      },
+      {
+         "title":"O componente usado como dispositivo de proteção que basicamente é o casamento de um relê e um disjuntor é:?",
+         "result":1,
+         "options":[
+            "CB",
+            "RCCB",
+            "RBCC",
+            "RCBC"
+         ],
+         "number":22
+      },
+      {
+         "title":"Os interruptores de duas posições 'liga-desliga' devem ser instalados de modo que a posição 'liga' seja alcançada movimentando-se:",
+         "result":2,
+         "options":[
+            "A alavanca simplesmente para um locado ou para o outro",
+            "A alavanca para direita ou para frente",
+            "A alavanca para cima ou para baixo",
+            "A alavanca para cima ou para frente"
+         ],
+         "number":23
+      },
+      {
+         "title":"A aeronve que opera à noite deve ser equipada com luzes de posição que se enquadrem nas recomendações mínimas especificadas:",
+         "result":3,
+         "options":[
+            "ANAC",
+            "Fabricante",
+            "Infraero",
+            "FAA"
+         ],
+         "number":24
+      }
+   ]
+}
