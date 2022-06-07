@@ -1,5 +1,5 @@
 # ANACquestions
-![Progress](https://progress-bar.dev/1/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/16/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of questions for the preparatory study of the theoretical exam of ANAC in aeronautical maintenance mechanics, avionic group.
 > [As specified by ANAC](https://www.gov.br/anac/pt-br/assuntos/regulados/profissionais-da-aviacao-civil/processo-de-licencas-e-habilitacoes/arquivos/Port41452021ExamesteoricoseAnexos.pdf), the CHT (certificate of technical skill) is issued upon passing a theoretical knowledge exam in the respective category of activity.
@@ -7,10 +7,10 @@
 ## For aeronautical maintenance mechanic, avionic group, the exam is composed of the avionic modules. As table bellow:
 | Type | Index | Progress | Contet |
 | :--: | :---: | :------: | :----- |
-| Avi | 01 | ![](https://img.shields.io/badge/-ToDo-inactive) | Technical English - Avionics |
-| Avi | 02 | ![](https://img.shields.io/badge/-ToDo-inactive) | Basic Electronics |
-| Avi | 03 | ![](https://img.shields.io/badge/-ToDo-inactive) | Digital Electronics |
-| Avi | 04 | ![](https://img.shields.io/badge/-ToDo-inactive) | Aircraft Electrical Systems |
+| Avi | 01 | ![](https://img.shields.io/badge/-Doing-important) | Technical English - Avionics |
+| Avi | 02 | ![](https://img.shields.io/badge/-Doing-important) | Basic Electronics |
+| Avi | 03 | ![](https://img.shields.io/badge/-Doing-important) | Digital Electronics |
+| Avi | 04 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Electrical Systems |
 | Avi | 05 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electric Engine Starting And Ignition Systems |
 | Avi | 06 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electrical Protection Systems Against The Effects Of Ice, Rain And Fire |
 | Avi | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Communication and Navigation Systems |
@@ -27,7 +27,10 @@ page
 │   ├── bootstrap.min.py
 │   └── jquery.min.py
 ├── json
-│   └── avi01.json
+│   ├── avi01.json
+│   ├── avi02.json
+│   ├── avi03.json
+│   └── avi04.json
 ├── README.md
 ├── favicon.png
 └── index.html
