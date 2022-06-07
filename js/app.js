@@ -106,7 +106,7 @@ $(document).ready(function(){
     });
 
     base = 'https://raw.githubusercontent.com/jvsouza/ANAC-Avionic/main/json/';
-    filesJson = ['avi01'];
+    filesJson = ['avi04'];
     createSelect(getListJson(base, filesJson));
 
 });
