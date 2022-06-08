@@ -10,7 +10,11 @@
 | Avi | 01 | ![](https://img.shields.io/badge/-Doing-important) | Technical English - Avionics |
 | Avi | 02 | ![](https://img.shields.io/badge/-Doing-important) | Basic Electronics |
 | Avi | 03 | ![](https://img.shields.io/badge/-Doing-important) | Digital Electronics |
+<<<<<<< Updated upstream
 | Avi | 04 | ![](https://img.shields.io/badge/-Done-success) | Aircraft Electrical Systems |
+=======
+| Avi | 04 | ![](https://img.shields.io/badge/-Doing-important) | Aircraft Electrical Systems |
+>>>>>>> Stashed changes
 | Avi | 05 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electric Engine Starting And Ignition Systems |
 | Avi | 06 | ![](https://img.shields.io/badge/-ToDo-inactive) | Electrical Protection Systems Against The Effects Of Ice, Rain And Fire |
 | Avi | 07 | ![](https://img.shields.io/badge/-ToDo-inactive) | Communication and Navigation Systems |
