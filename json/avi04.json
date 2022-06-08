@@ -37,7 +37,7 @@
          "number":2
       },
       {
-         "title":"Quais os dois condutores mais comunentes usados na aviação?",
+         "title":"Quais os dois condutores mais usados na aviação?",
          "result":3,
          "options":[
             "Ouro e prata",
@@ -267,6 +267,65 @@
          ],
          "number":23
       },
+
+
+
+      {
+         "title":"Um fio com isolamentode de baixa temperatura não deve nunca ser usado para substituir um:",
+         "result":3,
+         "options":[
+            "fio com isolamento de baixa temperatura",
+            "fio sem isolamento de alta temperatura",
+            "fio com isolamento de alta temperatura",
+            "fio qualquer"
+         ],
+         "number":24
+      },
+
+      {
+         "title":"Os chicotes geralmente devem ser constiuídos com menos dê:",
+         "result":3,
+         "options":[
+            "45 fios onde possível",
+            "65 fios onde possível",
+            "55 fios onde possível",
+            "75 fios onde possível"
+         ],
+         "number":25
+      },
+      {
+         "title":"Quando falamos de luz móvel que se acha instalada no topo da fuselagem ou na camada estmos falando dê:",
+         "result":0,
+         "options":[
+            "Luz de anticolisão",
+            "Luz de posição",
+            "Luz de pouso",
+            "Luz de inspeçãodas asas"
+         ],
+         "number":26
+      },
+      {
+         "title":"O cilindro do terminal de alumínio contém um composto dê:",
+         "result":1,
+         "options":[
+            "Silica gel",
+            "Pó de pretolato de zinco",
+            "Pó anti-oxidante",
+            "Peróxido anodizado"
+         ],
+         "number":27
+      },
+      {
+         "title":"Qual o tipo de material usando para lançar um chicote?",
+         "result":2,
+         "options":[
+            "Durex",
+            "Nylon",
+            "Barbante",
+            "Linha"
+         ],
+         "number":28
+      },
       {
          "title":"A aeronve que opera à noite deve ser equipada com luzes de posição que se enquadrem nas recomendações mínimas especificadas:",
          "result":3,
@@ -276,7 +335,7 @@
             "Infraero",
             "FAA"
          ],
-         "number":24
+         "number":29
       }
    ]
 }
