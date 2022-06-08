@@ -1,3 +1,8 @@
+/*
+    https://stackoverflow.com/questions/42218699/chrome-violation-violation-handler-took-83ms-of-runtime
+*/
+
+// ...
 function num2letter( number ){
     if (number == 0) {
         return "A";
