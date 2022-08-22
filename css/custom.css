@@ -1,6 +1,6 @@
 body{
-	background-color: #c7c7c780;
-	padding-top:  100px !important;
+    background-color: #c7c7c780;
+    padding-top:  100px !important;
     padding-bottom:  100px !important;
     overflow-y: scroll;
 }
@@ -10,11 +10,11 @@ body{
 }
 
 option:hover{
-	cursor:  pointer !important;
+    cursor:  pointer !important;
 }
 
 .optionCorrect, .optionCorrect:focus, .optionCorrect:active, .optionCorrect:hover, .optionCorrect:visited {
-	background-color: #d4edda !important;
+    background-color: #d4edda !important;
     border-color: #c3e6cb;
 }
 
@@ -36,3 +36,36 @@ background-color: #0d6efd;
     background-color: #0b5ed7;
     border-color: #0a58ca; 
 }
+
+
+/* to width greater than 770px, txt of button is ... */
+.btn::before {
+    content: "Verificar";
+}
+
+/* to width less than 770px, txt of button is ... */
+@media (max-width: 770px) {
+    .btn::before {
+        content: ">";
+    }
+}
+
+/* background-color of title question */
+.liMed.title{
+    background-color: #abc2d93b;
+}
+
+/* text center vertical */
+.liMed.title .col-1 label{
+    border-right: 10px solid #408bfa;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+/* text center vertical */
+.liMed.title .col-9{
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;    
+}
+
