@@ -43,6 +43,7 @@ background-color: #0d6efd;
     content: "Verificar";
 }
 
+
 /* to width less than 770px, txt of button is ... */
 @media (max-width: 770px) {
     .btn::before {
@@ -69,3 +70,48 @@ background-color: #0d6efd;
   align-items: center;    
 }
 
+.button_itens, .question_item, .titles_item{
+    display: flex;
+}
+
+.letter_up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 20px;
+}
+
+.bandeira img{
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+
+
+.boxTranslate{
+    z-index: 9999;
+    background-color: rgba(0,0,0,0.15);
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 200px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.form-switch {
+    padding-left: 0 !important;
+}
+
+.form-switch .form-check-input{
+    width: 100% !important;
+    margin-left: 0 !important;
+}
+
+.traduzir{
+    display: none;
+}
+
+.traduzir.showPtBr{
+    display: flex;
+}

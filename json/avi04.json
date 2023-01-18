@@ -1,341 +1,727 @@
 {
    "contentType":"Avi",
    "contentIndex":4,
-   "courseunit":"Aircraft Electrical Systems",
+   "courseunit":"Sistemas Elétricos de Aeronaves",
    "questions":[
       {
-         "title":"Em zonas onde os conduítes podem ser danificados por pedras esses recebem jaqueta especial dê?",
-         "result":2,
-         "options":[
-            "Liga de aluminio",
-            "Alumel",
-            "Fluorocarbono",
-            "Constantan"
+         "title":{
+            "en":"U2FsdGVkX18aKEuQazu3tbBemXZmGFGdtH6KxsVeepE=",
+            "br":"U2FsdGVkX195yzdUq4W5Tb5ALgbE4PzB+zOrsWvihugOHjf5o8blGVaoIomfYjpfNhDzQo5WcoFS214PgXGGgmD/Lja+dEMZKGiyAJsjcb7+iSMHN1Q3Avy9UOdAWwpF"
+         },
+         "result":[
+            0
          ],
-         "number":0
-      },
-      {
-         "title":"É correto afirmar que:",
-         "result":3,
-         "options":[
-            "Quanto maior a bitola maior o diâmetro do fio",
-            "Quanto menor a bitola menor o diâmetro do fio",
-            "Quanto maior o diâmetro do fio maior a bitola",
-            "Quanto maior o diâmetro do fio menor a bitola"
-         ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/8Ox9ygeSTa3lhxNam8QJG+ttLaG1Y5Fc=",
+               "U2FsdGVkX1+uaMmnEWw2fRpHZyir3XPTYvr7OD7M0kY=",
+               "U2FsdGVkX1909fGX1kwvZ2UvxPYctVXo3TvqpyGkfjI=",
+               "U2FsdGVkX19wcyelPTs9NpY5pFzODFNGaMnmiHo7dqI="
+            ],
+            "br":[
+               "U2FsdGVkX18Wiq7PR+jsdJUQIEiuajdsfYesglJYXyQ=",
+               "U2FsdGVkX18ncVDsIx0gh81iP8IH61B+QFEstaYdgPE=",
+               "U2FsdGVkX1/KKtWc+bp8IeUO10S4ntOUuqMLBXcVUng=",
+               "U2FsdGVkX1+NFDd9yBqHeTKkc13bIIH8l6VdDKsZhMc="
+            ]
+         },
          "number":1
       },
       {
-         "title":"Para identificação do condutores termopar entre os seguintes códigos de letras o que deve ser usado é?",
-         "result":0,
-         "options":[
-            "cr-cromel",
-            "nq-niquel",
-            "al-aluminio",
-            "cb-cobre"
+         "title":{
+            "en":"U2FsdGVkX19VeqNPyVtrITAuVAgbzDViiEMTf83FSeA=",
+            "br":"U2FsdGVkX1/+YBtmDO51n1OLB9BJYwnoRSciUsaxqons5/ai+4rP8EdTxOfL3+sNB8ihgpcfri2Lkd1H1D18VKJq6jWJti6vf8y2PgPMfmI="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/daJB1hWJh/n/+BlAefd652JW0YWn/rMs=",
+               "U2FsdGVkX19/I9pOyTbaZo2XKY3+8RMQ7BDYocFShns=",
+               "U2FsdGVkX18Xu19DkbPAnhtMOc8/5hTwlwiU6LCdnXc=",
+               "U2FsdGVkX18AzvUNfIMr29iv4HY6BnH7gnShHIarNrw="
+            ],
+            "br":[
+               "U2FsdGVkX196UR3MXBlb3ocVrznEgvESspNWNR5+goA=",
+               "U2FsdGVkX1+iUFkIhNU49dSJSX5LjnmhV3XYfkVSegs=",
+               "U2FsdGVkX1+1aTsnbs74vsNM9oyY1gvnWWhBPQDbwVs=",
+               "U2FsdGVkX19A2k82pySPErwR8mlP6U/wfBHcx6zsMRs="
+            ]
+         },
          "number":2
       },
       {
-         "title":"Quais os dois condutores mais usados na aviação?",
-         "result":3,
-         "options":[
-            "Ouro e prata",
-            "Bronze e cobre",
-            "Germânio e silício",
-            "Cobre e aluminio"
+         "title":{
+            "en":"U2FsdGVkX1+OKRFlBywU6W/xKrqMgEN1LbbdbT1Q1/k=",
+            "br":"U2FsdGVkX1/BPcF6/cOogOz/g1hiVx4mQx1jdQ7DDhb/+o6FZCaMo1+AhXcP4yti4+JyqV8YOCHQby+spbLhOTFh3XeDSqgHhc4XcATHPnQ="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+JqcaoFmwVkPGabe90lYdncrFwBYJOSag=",
+               "U2FsdGVkX1/2tV7SpfKQiuAujfnEOAK8PVPa4G0di0A=",
+               "U2FsdGVkX18/3OjZipxeIfwSfuJsiC+9FAq0DO99gf4=",
+               "U2FsdGVkX18KmN1/DX4VGhK05BVv8LPliQk31VdiyVQ="
+            ],
+            "br":[
+               "U2FsdGVkX1+rw3JFFVWFc+EkPB0Gm7qoJcZPLVz+u9+xqnYGcSMcIduAWfQjfVCr",
+               "U2FsdGVkX1+uu4Ag5tHWukongjeahVJK1ENrGFzLUoZXcPl5LgcuEpwPKZ63vJAC",
+               "U2FsdGVkX1+LL4uGlrSV9vSs+fl/bR0M9DlV6K/pkbVabA2bk7mxPpEDEH99ll7N",
+               "U2FsdGVkX1+KXWMvV/z6lpUrh4aX8vuzDW4I3tn5F20="
+            ]
+         },
          "number":3
       },
       {
-         "title":"Qual o valor satisfatório da resistência medida entre o ponto massa da fonte geradora até o terminal dos componetes",
-         "result":3,
-         "options":[
-            "0.05",
-            "0.0005",
-            "0.5x10^-2",
-            "0.005"
+         "title":{
+            "en":"U2FsdGVkX1/o00Tc92+8FyRjHCtzolg3hblZH30ZRaA=",
+            "br":"U2FsdGVkX1+T7MsoFTpJF2YgcnYbZJbsxgBudjonKLB52fzUuSpSme4RaQD+1IgFRmiGtSfrOylLckyZ5nuGPg=="
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/M2D7dyIR7A0lcR/pNt29ratMLqRASWMs=",
+               "U2FsdGVkX1+tAFFSPLzKsog1EnCuVq4I2hcaxmH/YZk=",
+               "U2FsdGVkX1/enQKe9ahYLwlibS2WU9ginovnnTdleVY=",
+               "U2FsdGVkX1+0/nE/yIX9E1T0r9nnvWuqTANhG6dDdrg="
+            ],
+            "br":[
+               "U2FsdGVkX18GvSIZTOQ3eqth1hcJMrLEtHg8XA1iBrU=",
+               "U2FsdGVkX18y7Q7xL51oo7/WrcQKG4BwggRgvqmNfkc=",
+               "U2FsdGVkX1+TWK0cUwpb3w1pgElhi2GnY6zx4I3d4eM=",
+               "U2FsdGVkX18n62fPhYmB4iRBkbjh8I79D0rTm8Ovdf0="
+            ]
+         },
          "number":4
       },
       {
-         "title":"Na aviação quais os tipos de isolantes não são mais usados nos sistemas elétricos?",
-         "result":0,
-         "options":[
-            "Borracha, seda e papel",
-            "Vinil, algodão e amianto mineral",
-            "Teflon, adamantium e plástico",
-            "Silica gel, isopropileno e fibra de vidro"
+         "title":{
+            "en":"U2FsdGVkX1/a7Hk6BlxIETRuu0Xbpn46ekt7KUm/3WI=",
+            "br":"U2FsdGVkX1+Tkw/f1CnvHkRA4/ROzi2PrpYFSRqKEd/aKcByer0Avqj8gfryjgvZuxVSSBF7eKVJmTBYB/8k0pT2WrOh9TdKC+SWwX4xC9/v9+O9ezWHllp+tloku2dYlc7Kqenj03EiPWIhHydI09rD7XzFCCPbPG4wIUHW6LwAjCYnjYb5Ljez1bi6M+0o"
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+H9pyqCs+lBQW5mIoOHf98u/Sog/A/Igo=",
+               "U2FsdGVkX1/QnLa7idEIpzz6BrlGalDpPOgJXjxgWps=",
+               "U2FsdGVkX19GL6o+Y5pjWJ9EMOs/ec2iMEE5gHSIXfw=",
+               "U2FsdGVkX18GH+BH8Y0nKFIZxF09sTcnFDqaUyAL5EU="
+            ],
+            "br":[
+               "U2FsdGVkX18ZAKmLHh+YArLGkGocPRV3zdSkk6GKrO8=",
+               "U2FsdGVkX1/cJUG2gVuyhvS4ymmLTYNeNcevCF46DlI=",
+               "U2FsdGVkX1+E+Lmz0NhBqpL/HE0ITi8yqtUrfCsv5ug=",
+               "U2FsdGVkX1/dd7kSD+x8BOeBOso3YWv4pKZgfx99H/U="
+            ]
+         },
          "number":5
       },
       {
-         "title":"Dois ou mais fios indo para o mesmo local juntamente amarrados para identificar o grupo a qual pertencem são:",
-         "result":3,
-         "options":[
-            "Chicote",
-            "Cabo",
-            "Enlace",
-            "Grupo frios"
+         "title":{
+            "en":"U2FsdGVkX1/UwfuFAUOtnlMt2oDbAOKIzIyO8CI7bvA=",
+            "br":"U2FsdGVkX18M5NP2GpozzzpC0tuVzdWt8cBTm3P/QmgUH+pH0gVvpOWwgP54mnX/c7B1ReVTktWzUyThqiU7IfB7Y+4lsnHH7G0W/eAJ1U1tC1fETSsWeJFiecQJDIr0"
+         },
+         "result":[
+            0
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX18V208j7cwqvBm/w/8yOa9iPooYaTTEIDU=",
+               "U2FsdGVkX1/Zx5RDTPm88aBr1oTMf5Zszoydc6qsPQY=",
+               "U2FsdGVkX19k3U/jhhZ9XHAMlH47JLRG2Xv9q2oNdR0=",
+               "U2FsdGVkX192aMUpOeMRk+5SRis8YugFmik5X5DwCkY="
+            ],
+            "br":[
+               "U2FsdGVkX18FgS2g6AUj2SyZ22fy1IYWs1LZUWw3ius=",
+               "U2FsdGVkX1/YhMxqCAJKcSuyJRP3HzUT6iS0yYTYMfQ=",
+               "U2FsdGVkX1+7aLjXls7YS78vKF7q2EJPo1VN+glSANU=",
+               "U2FsdGVkX18iXVIfpkloJdp0AKL3V+DJ019sk1L2biM="
+            ]
+         },
          "number":6
       },
       {
-         "title":"Dois ou mais grupos de fios amarrados juntos, indo na mesma direção para um ponto onde a amarração está localizada, chama-se?",
-         "result":2,
-         "options":[
-            "Grupo de fios",
-            "Enlace",
-            "Chicote",
-            "Conjunto de fios"
+         "title":{
+            "en":"U2FsdGVkX1/JJ6oHhFUrutY0A69Hf6aW8pQdFegFGyA=",
+            "br":"U2FsdGVkX19a7RoqkGdr5mEjd8J2jjBC1hXExvB4+/BCLg0WAzy+FPk+2Q6SDryteMwyuraB3eY9AvExJlm7lQ=="
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19yex9SpNBicYyuqvM9a+QTXrFahCVGDy4=",
+               "U2FsdGVkX1/ppZZ+yKSRC1Hs9to5zBvyE1DQYwl7beU=",
+               "U2FsdGVkX1/jJreEzO1bzo78EhvBueDkgo6zkePlJ2w=",
+               "U2FsdGVkX1+qND8LILJcjKSB+JhTt5Vj8i4oORCucc0="
+            ],
+            "br":[
+               "U2FsdGVkX1/za3N8BCHG5sQOG5NwChlEabQSO7WGgEf5VVKX3dgO0HWgC6mrtRm1",
+               "U2FsdGVkX1+nDYigDYKlTWM7bKaICbd0mkG6p7RWE3I=",
+               "U2FsdGVkX18C8P4qFmuqMnq89dsbIlMhYuW06BjSv+ORPQb71D3gFyskqtAgI99AvFQ60k5LSrHuQeJuuLb/eg==",
+               "U2FsdGVkX181HBpD7hKhms2mfp3QjTI8REfX4cLbvCwGy4pLor3xzszEmvusCLn5"
+            ]
+         },
          "number":7
       },
       {
-         "title":"Quando é utilizado o gromete?",
-         "result":3,
-         "options":[
-            "Quando os fios se aproximarem mais de 1/2 polegada da borda do orifício",
-            "Quando os fios se distanciarem mais de 1/2 polegada da borda do orifício",
-            "Quando os fios se aproximarem mais de 3/4 polegada da borda do orifício",
-            "Quando os fios se aproximarem mais de 1/4 polegada da borda do orifício"
+         "title":{
+            "en":"U2FsdGVkX1/LSIRTbQiKXLBsh4f2Zzq19jSVYMVjvTE=",
+            "br":"U2FsdGVkX19qsRHAiAOjhOPch8rmwlJgYxbSzFk/ffjy8Bmxq2x65K/6nKbSdw5RLlmQiVrfUgfAQT5+DQcBGg=="
+         },
+         "result":[
+            0
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/NOe1ynA+ReERqwcghx59oklrTciTMFOs=",
+               "U2FsdGVkX19YTaoSWz+fPjC6yq35emCv2odXLu0Q+1Y=",
+               "U2FsdGVkX1+psh9Vo6cWorewPa4MHvGC+OXDokN2uVI=",
+               "U2FsdGVkX1+EWl8c/tp1svMUF9iPOQTk2MM748IKrHI="
+            ],
+            "br":[
+               "U2FsdGVkX1+iDsoI8VUafHthyYy1nVNob4O4D8guVRM=",
+               "U2FsdGVkX1/r08lxuew3RgVkuAWX2TX2SSuDxgL4BwI=",
+               "U2FsdGVkX1+84sndEOLeK6/ky47XQK/FbIOXI/hJHW7uhfbM4T0bjy+Yg1Qdctxv",
+               "U2FsdGVkX1+ZSRpq7X+2yY8EV0+KW/Ws3gn6yZGe4PRkeR72MmVS2aq8uNyLrEmL"
+            ]
+         },
          "number":8
       },
       {
-         "title":"Qual a folga/distância mínima deve-se manter uma fiação dos cabos de controle?",
-         "result":1,
-         "options":[
-            "1/4 de polegadas",
-            "3 polegadas",
-            "3/4 de polegadas",
-            "2 polegadas"
+         "title":{
+            "en":"U2FsdGVkX1+EZK/iIjiqdUba1yJAZEmMXPmgTM1lu4w=",
+            "br":"U2FsdGVkX1/prpEmnP4RF97vPf/wEhqjQ7OM3UT4ahfVGj1kf0+b1oFBxL6bnLbEIlsYmBMo3Z6e24WhEYshLRoAUuZ7LDrPnYOAUHmyV0lKrmC3BD8CgzWLlhB6wTNW"
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19L0cIA5k9qvlMjieYt56PzR47evOZAirA=",
+               "U2FsdGVkX19OXNHH7eZoi5FJ3a7tLqCu+G3DSLSuqPA=",
+               "U2FsdGVkX18BtCdEuPkMqQ+RmoWCsFMO2yvn7dAuRfA=",
+               "U2FsdGVkX18oKLUin8ZqHvNVvS940eBuZeRHrFS9ek8="
+            ],
+            "br":[
+               "U2FsdGVkX1+w/GItzAxkvcFhA4HqPHxsJyiXOmd9meY=",
+               "U2FsdGVkX1+4hROIYBB2KdMpN9YqPSmglHZZiP28ZMj0WRd+QM865Wgpj99sV9MW",
+               "U2FsdGVkX186R6vFHTyujrxstdjSx8GMFJWn6/goK3Q=",
+               "U2FsdGVkX1+5UgM88uKerfH4mAy2loV51/2W7tR/0i74oOuJxV6gOiBn4A0zQkmd"
+            ]
+         },
          "number":9
       },
       {
-         "title":"A resistência do isolamento do condutor pode ser medida:",
-         "result":3,
-         "options":[
-            "con um ohmimetro",
-            "com um medidor dinamometrico",
-            "com um multimetro",
-            "com um medidor megger"
+         "title":{
+            "en":"U2FsdGVkX1/G5p1xG6dlI69veFCkVdjghHnttpdEDbM=",
+            "br":"U2FsdGVkX18y7usKTI5dw3VqEh2HCoERIL96ye05Cx9Zk2ECiSeRlkWMfklqOZFwt+jWMExhny8ypVvOK8kt4g=="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19HaZvXf4CqrlmRSoEEGF4ajT+WGTkVxGU=",
+               "U2FsdGVkX1/zQmuX/zVC50ij50/e2+dyhJLV1v5AaTc=",
+               "U2FsdGVkX1+HO5kWCwlS5ic7QU2Ksf3yewJafX9GNWE=",
+               "U2FsdGVkX1+cUN4gCUlpPDBnK2eOemn3T8qos8ksxyA="
+            ],
+            "br":[
+               "U2FsdGVkX19kiDNz/ZWdBbcTMOyB1tdS95JPUHEvNMM=",
+               "U2FsdGVkX19qwfHnkElqDmi+D6OPYfmCnba1Md5OKso=",
+               "U2FsdGVkX18coffMAepVGn2CrmRyHn1XqqadmG9V9GA=",
+               "U2FsdGVkX1/9KKXAb7fybYlDAExBWfJ3WL4HJ1Nd8QQ="
+            ]
+         },
          "number":10
       },
       {
-         "title":"Dos dios abaixo, qual possui melhor condutiividade considerando a bitola e o material?",
-         "result":3,
-         "options":[
-            "Fio 10 de aluminio",
-            "Fio 10 de cobre",
-            "Fio 8 de aluminio",
-            "Fio 8 de cobre"
+         "title":{
+            "en":"U2FsdGVkX182IRrO6gBNrfgNkFLCMoXArC4kHIU+DiI=",
+            "br":"U2FsdGVkX19bt8mdCsEYsB74li4tqepj6E3FlbP73fQf3w1BosvGc99n9lSM1e33x4PLim0WgwkUqMrhT/AnEP5k4bgfXiL80dAIzVpgly4ZARNxbeEtyS2TcCOCQEf/"
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19Vd+FSkZbyvWOESmV4+EpfA5C/gnLuAKc=",
+               "U2FsdGVkX18gjpPIeBzzkia+qHZakQ34t8+RXZuXUk4=",
+               "U2FsdGVkX1/RoTkS6sZchoP5f4s1FywwAQUuTBnmXDs=",
+               "U2FsdGVkX1+3j4MZ1FA9EsPI2RMB7MSVP/UAWg8K1n0="
+            ],
+            "br":[
+               "U2FsdGVkX1/2VZBUfRviwiQpLTz/UwUXLX1FiXxyN+/nGAf/iZF5nDXsGdaVTXKOVxz6aZriZK70BUGQEfata8vNjq3OkJtMXPEyJ8ffpLiz1IvRQjG+DWKODzduqQH5",
+               "U2FsdGVkX1/t0djNbt3D/JsOzBawmlhmiGL8jVStzCVH5XE9sSSKZN+qhdONXeZcABMjivd34xk90OtFJH5v/ndJ2EheiWCB0XwdqKWKDNNOEsVYriwCz7TUaQr/7uET",
+               "U2FsdGVkX19cs5e/zHsb/Ag2SA0d2D4L1atZw/cmC/gtJmX57u6wuulPaOSPUNYdwFd1hjdY5MMlUG6VZqa061MkcFppt49RyuWvMF9EfcQ=",
+               "U2FsdGVkX19mY3ntmmQyYJWGHTQofR6jE0U8xnUGZIHT2vQVHmHHvYtzK92YpXU+ivFPtyWjCXrt1xdSPMiMW2tPgxYUMWs7/GQjeSUyeSIrkjbvQres3Guf/3lejkd6"
+            ]
+         },
          "number":11
       },
       {
-         "title":"O que acotence com a corrente elétrica se aumentar-mos a resistência de um condutor?",
-         "result":2,
-         "options":[
-            "Aumenta",
-            "Torna-se nula",
-            "Diminui",
-            "Não varia"
+         "title":{
+            "en":"U2FsdGVkX1/NeA+1GfQcfsVVUf7EBjbbEb5uDCBxYIk=",
+            "br":"U2FsdGVkX1/8dIs/68f7h7WyBbwdHv7Ohohc0faOK8QOG4yNisZSYqWRRh9pJ7n3QXtBQbAQMTMUSkylVA9DBy/YKqjhkJ9xIVu8jGerLXZr5FJ++Ofjx5dZGbHoNb7yVvjRCcJONinJcZk6dV2zcEq+YTkmYiww8P+eneR31CltNUFhoGNroMFYDhConEg7bTUuDHPEdHY90EPgGSLz/Q=="
+         },
+         "result":[
+            0
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/KWQCdDCwHl4x738W3fo/RTyKb0avWq70=",
+               "U2FsdGVkX196jCF58tUnCAY4obuifob+Bb0CmwF6G+E=",
+               "U2FsdGVkX18Y7UEh448OE86UEzg+Tx1fvqhs592EoVU=",
+               "U2FsdGVkX18IY+PmzKzoTrvo6OECpXhOIXCOPWfPP5g="
+            ],
+            "br":[
+               "U2FsdGVkX19ZztcavFo/+IOLZ538WZ/iONdWE3IxhyPlLM4VNmA7exgXS34d3oweAx4waYt1QSDNmtotW5o+cQ==",
+               "U2FsdGVkX1/5cGY5ijxFnk2ho7UHrAhpiU0eATXPbU481cQusGAXFvFYgshaoBeU",
+               "U2FsdGVkX18ypBiDHszpTBK824qQcvTetaMdgSiPckp7lCtuUDkhi5hWg+pXho06",
+               "U2FsdGVkX1+JeS9KDfM3NLp6Eq7CEb5QoBwDl8WD5TZ5U4KTnetR8V5ZAZE1xWBV"
+            ]
+         },
          "number":12
       },
       {
-         "title":"Na identificação de condutores a letra 'RC' indica ser um condutor do sistema de:",
-         "result":1,
-         "options":[
-            "Radio Comunicação",
-            "Comando",
-            "Radio controle",
-            "Mapeamento"
+         "title":{
+            "en":"U2FsdGVkX1/M9/ibI4pFtb7TFQKzQeJEfldoP7Jfavc=",
+            "br":"U2FsdGVkX1+0mqrgNfL+m/ziEr4sis/4nhIRtlt6Aa0K5dQhDnrOL56c5TyQ6KOnBq3x5gCGMAR9Pv6URu0/YrCEaB0TzH48fRZpJ00/UHJHG1x06C+k5qJIs0JC9LR1wc+TACSqPA5VUpbezjgJAA=="
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX185IZQbsW4+20+ZCocGwCs3vC7nIAKDxwU=",
+               "U2FsdGVkX18aaMMkCrurddLLCZUX7lIpVHaSG0K4MSI=",
+               "U2FsdGVkX1+hRiKpwGBS11npizQBqFhoVeLk1XxOgQQ=",
+               "U2FsdGVkX18ySJym+kRsEHCjTPAFPG5Rs2Izrbi8cnc="
+            ],
+            "br":[
+               "U2FsdGVkX19SUbd6qLCzsplCDzIc2o3r08o0NM2i+jSEgWzBKMCXytZrKGCLNwSJ",
+               "U2FsdGVkX194UQ8F7NpMeIYFmryBVHLWLyq2aJ/Hd7w=",
+               "U2FsdGVkX1+9R+5TZlS6bxuS+Vn7ZzZzGXUNqvX0oDk=",
+               "U2FsdGVkX1/RS9IU5ZnipeeFV5LzBUIxJV/8rEXK/yoGvDMBkjGUw/8xpAxCzkb6"
+            ]
+         },
          "number":13
       },
       {
-         "title":"Qual o tipo de material usado para amarrar um chicote?",
-         "result":1,
-         "options":[
-            "Plástico",
-            "Algodão",
-            "Cobre",
-            "Aço inox"
+         "title":{
+            "en":"U2FsdGVkX19UtOcWByQtMeaf1jR2fFs9YBP+YWZ55Ww=",
+            "br":"U2FsdGVkX18Uhj25y3OgS9r8etXsLopKdEHGY/N07Z6FQ3zDWj5afUrm8kxdf/PGuOLhkrpdKFQNmdyEveqkVoU5JT49aZligwdSRX9xwwk="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX18Zkw8dCPo5qIRbK9ZbjMMskXSwyWEWW6o=",
+               "U2FsdGVkX1/nv0Htj7Jywb5pjVFgZv/pysiYTByJjow=",
+               "U2FsdGVkX1+dpInrpO3Rbcrq/U5I8YtLU/DBtTGZTAs=",
+               "U2FsdGVkX1+JH5Fglmpnd0JxunmSW3e77imBzPTL4x0="
+            ],
+            "br":[
+               "U2FsdGVkX1/zTq1BvPQakSOaAQmRy0X3dbVdT101n86VSrPAHI6lTKleJl25CtsMCDqbTgkx18Hyu/av+9WvIudq0jDf8iOiJdPJQ5DEGZPwnTVUNm+8AnRQfOXZOjBlEJ8mzJtF+1CXBvSK3M8PpQ==",
+               "U2FsdGVkX1+KjvWKXTYu1jmG9jFA5SAzWQeHpNbxW/srrohflAn4mCsS6iDEJqWSAKrNGMp12Sgh+m8Y5JiAvg==",
+               "U2FsdGVkX18w8G/OTuXCRjzCjB32JGlUZg+IEKYVkG59rIi6YZRIuWh6SLruSjn0UaLrsZUfzB2kLFzo+CMUwRhFyrzVuH9FfqE5IkLZCMf9jiY8/m3mvZZ3KJDM1mAP6aCVvV9DhDXSsbmUfBzHFT/D3A5yC+W0+hGVsuuq9sM=",
+               "U2FsdGVkX19SYeRYxWNFs5v/wlURumb3FT0Yq9o59s/91KFvdHKl1nNTBRVzrXzDOHeyOj143uBmEHEttazHuw=="
+            ]
+         },
          "number":14
       },
       {
-         "title":"Toda fiação deve ser instalada de modo que ela seja firme e de boa aparência. Sempre que possível, devem correr paralelas ou em ângulos retos com as nervuras ou longarinas da área envolvida. Como exceção dessa regra tempo o:",
-         "result":2,
-         "options":[
-            "Chicote que orientado tão diretamente quando possivel",
-            "Cabo multicondutor que orientado tão diretamente quanto possivel",
-            "Cabo coaxial que orientado tão diretamente quanto possivel",
-            "Par torcido que orientado tão diretamente quanto possivel"
+         "title":{
+            "en":"U2FsdGVkX1/2wGDpPn7fOcS7BpOHNuGEU4iaPh/nhcc=",
+            "br":"U2FsdGVkX1/WQvOSVBhgKDO42hXeB0JR12yhJ7ab+s8djsg1F8oTGbR/AAk/lfzAgx2cFmTdKguKJZVyRaDCzw=="
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX191BdEK612ClDBplPb7Hezvjc98pvAXIKU=",
+               "U2FsdGVkX1+B/dQ/S+JoQnqz0T9xOxTnJS5AG9wSJlg=",
+               "U2FsdGVkX19ydk9wYrwWtqFSL0NlAvYdqwLAiaz6GoA=",
+               "U2FsdGVkX19n/wbuEf+wKVLoOJ8FrisawOTOntbaGT4="
+            ],
+            "br":[
+               "U2FsdGVkX1+LRJyHBg4DZny3sFYVKUxyE+FSQ2zZN1aw0wLY0/LlkDxBeDbTc8yhe/mUxJpqZMsayzhiCvErASTpxE+txnKEma6UiHozGaWdPNk4qLCDTKrqCVTguAqHjcSzjuGjv5VBG7MhLdSwOA==",
+               "U2FsdGVkX18H39UVTdRcmNZSTVtwc9fRU3kR40kjybs+46xl0aZ2JIsIS0jOuCBEHa4pt4JuFxa4wPKTtTlfE/Wdn1wVaH0KPHHOjV0Mom6dGz44ISVFqFeQIbKaC2C9",
+               "U2FsdGVkX1+XBse60qjUEP8XkmViNW42oKaLv0eJfvBcJAoJ/8GOjuIRnGWb0mljelYjwQn/A4SUibJUkBqqULRAC5jIpu4cDeUhiA0sh48lMtozrH7XvnUiVKe0kFEC",
+               "U2FsdGVkX18kbPDD1DkMRXkzUTIHnsSnb3MgenD8Jmxri5xheYlo+wxIyjzoQTMPQ907+PrD5dDw1zqv98FFX6eA0k543rCCT7jdOR+EVHZryflXwzXjEVlFTTuFo1k3F9F3qSAOwGQH/VSG/Ppe0A=="
+            ]
+         },
          "number":15
       },
       {
-         "title":"É correto afirmar que:",
-         "result":0,
-         "options":[
-            "Um fio nunca deve passar por baixo de uma bateria",
-            "Um fio nunca deve passar por cima de uma bateria",
-            "Um fio sempre deve passar por baixo de uma bateria",
-            "Um fio as vezes pode passar por baixo de uma bateria"
+         "title":{
+            "en":"U2FsdGVkX19PVdmW59UUJSWrypmBJlQToLII3ntzcZs=",
+            "br":"U2FsdGVkX18+cz6QuhMzK63k5GYCOWNWQPrGK3t+ibq6OYjjN5CQb+MKh5vMinJfaJbLydySVtdtFX0p4mrBBnWrJjb/Ym71kknKrukt7Math3u5MWpGlvaLKTkQ/hfnzjb71FABHfwWgdBgKMX8+5xFJUSv/pRu5d8NbKYtifM9unMm4QypED53EzIhNMdbDem0qbbX2H0xj+LgBVS0/A=="
+         },
+         "result":[
+            0
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX18rvqfbsFi0XWmvfSFusjh3z2tHmfxlAbk=",
+               "U2FsdGVkX1/2d6rbMLCA7SD8ppJBCb0ywumKR06T5HY=",
+               "U2FsdGVkX1+3qUbimg90OlrePPRqGhVa5bcizTot0Yg=",
+               "U2FsdGVkX1/DZT/d6oVxpg+FfjTEfsOs4KMInoc998s="
+            ],
+            "br":[
+               "U2FsdGVkX19c55voVjF32irsh/osp9pMxQBZRSXeKSyjgXqrFgXj6vXsAAWqWdgw",
+               "U2FsdGVkX1+KmnMA4Vmwe2qnkhDudQ/rfT/B57vU8s0=",
+               "U2FsdGVkX18qQqiDfjHzanpFgVGQbbIEtkRB49XpRiOuxh93gU14om++9bVUbMv1",
+               "U2FsdGVkX19zJ2xOtW8LcMOQRamqt+Ggsj0C1GhU3aIHXOtwKKPAFObkBzoipAZ/"
+            ]
+         },
          "number":16
       },
       {
-         "title":"A amarração é iniciada na extremidade do grupo de fios ou chicote com nó denominado",
-         "result":2,
-         "options":[
-            "Nó cego",
-            "Nó de escoteiro",
-            "Nó de porco",
-            "Nó de marinheiro"
+         "title":{
+            "en":"U2FsdGVkX18efoFu39ZymZeTVyYoPWSeqi2gXFon+x0=",
+            "br":"U2FsdGVkX18kdLVhjXwyh5Q6psE7JMKT2FL3BZN9MRAwtqlniY/vawA6mx619Ry5JB9Se+fHaGkjRpqwFluAa7uxxDftODOrN0ZAlz0OpFCpwQOPl4ZIJxYL+YrKzrZn"
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+/pwoceJ62xptcImauRw29qZ1wgPbWsmg=",
+               "U2FsdGVkX19yztlrFCPYPLuYA/NCyOsrpWsy4x/X9yU=",
+               "U2FsdGVkX18vP3STtLrhHwV5pc03UM8MgeXkCBTKa3w=",
+               "U2FsdGVkX1+f4soIZncCmjroSY24SLETdKRPWhAWFP0="
+            ],
+            "br":[
+               "U2FsdGVkX1+R0MKghqGRkTm1LmCvqb64t36zPGtYpDE=",
+               "U2FsdGVkX1/Q+5ePly+XglqOOPu8wUzE1a54o6ZhnLC0mqUh/ltgI1Pvj2oX5YlG",
+               "U2FsdGVkX19LbtQZ3CQQAGIoXo91oATOcc3Q8CqmcA8=",
+               "U2FsdGVkX18VsGUFpAI425Gn1Wh+02PcVhk3uU0nVi4="
+            ]
+         },
          "number":17
       },
       {
-         "title":"Um conector à prova de fogo usado em áreas onde é vital que a corrente elétrica não seja interrompida, é o conector:",
-         "result":1,
-         "options":[
-            "Classe A",
-            "Classe K",
-            "Classe F",
-            "Classe S"
+         "title":{
+            "en":"U2FsdGVkX1+5YCAjSPYrS8wSMOpYd6FbYrE2U2ebTgU=",
+            "br":"U2FsdGVkX1/8w+oKVG6HndzwOB0ewHEopw8ZgEEG3PLaVCCcTBdWHuBok2psqlFL61x48+lpSh6i+3FkKhhaXcjsi+Fs7DwLovu7s1h88voU92VFpLfRwcVkA5P/CIu7"
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+U6je1mDKczKIoJyU8KZ5lNM6rwhptKQM=",
+               "U2FsdGVkX19sbGbBonnUrDrgaJ1dxP8WK78sZnfXqYY=",
+               "U2FsdGVkX196meNpGdmvgpZQT1dBwSl+dbcfPRKhqP4=",
+               "U2FsdGVkX1+ebVn6KIhvXqfzGO60sUaOv83oPldHN9g="
+            ],
+            "br":[
+               "U2FsdGVkX19lmXkoHs8oZxlg+URMAlvQGUT91xg7Eik=",
+               "U2FsdGVkX1/uLFcqR7dbbqQRSVJl02gHxq4Ft/so05Xac8ZxuvrQbIRPy7hzG9wArFN16LBcl7I43r+bJy+Stw==",
+               "U2FsdGVkX1+AyDJSlXhSpPtOumj0tbcaOzoRfEvA8axgs779MyPf18yvd5J+Ljnj",
+               "U2FsdGVkX18k+ZBiaqjJtiHeomQl+izkf/WpgGsVGJKdF5MYDYsUmEDi/kC5zOz7MuCkS2IKqLUpt+lAMR800NAD4BoR9CbxsfblBxn+80Q="
+            ]
+         },
          "number":18
       },
       {
-         "title":"Um conector resistente à vibração e à umidade é o conector:",
-         "result":3,
-         "options":[
-            "Classe F",
-            "Classe K",
-            "Classe A",
-            "Classe D"
+         "title":{
+            "en":"U2FsdGVkX19v+Y8EJAkHVzzXayUszuPUMuP+gDAzmks=",
+            "br":"U2FsdGVkX18NzCl24Gwtit0hEhI3ajaHbny0UU+ZgA+fnwCF6yLESDxY6amuOkiBCzM+aPJscC6mPRVtI96e8aJOSYqix8iIZYmybY7uuMg="
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19MEGNoMLhjIjKq8FJuYAqp5XA4FUhHwE0=",
+               "U2FsdGVkX19S9RBcJpiQieLNnzv/Y5PmtDp3zI9Ozb4=",
+               "U2FsdGVkX18BVG7q1hmH4+MEPvFvYcN1TBqcJJXvB7w=",
+               "U2FsdGVkX1+E1iqnmTQDl9fGQUBRBZ69/frKjB/hea8="
+            ],
+            "br":[
+               "U2FsdGVkX184G3rnNUXEUpCchjFVpG3WyAoSiC0OMF0xi9U1nr5eC+liM0J79jy9",
+               "U2FsdGVkX1/9QmXgnJ5Aqd3FI2Wzjcz5euk8hjARsUy1esRG+tcrPh1yFlvgbSQtmHEj36CFqvH3GNsSfjW4lQ==",
+               "U2FsdGVkX1/HjSVMbjrOav3Be2CQEEv1TMmaUa7jEshsXl5zffhTHDyySybJW51Q",
+               "U2FsdGVkX18Vx2l47dcdLPsVfgKKqHH17McZjX5jda4tJwU97EudUjd8rrI7EA85"
+            ]
+         },
          "number":19
       },
       {
-         "title":"Os blocos terminais são geralmente equipados com estojos retidos por?",
-         "result":2,
-         "options":[
-            "Uma arruela freno, um parafuso e uma porca",
-            "Uma porca castelo, uma arruela-freno e uma arruaela de pressão",
-            "Uma arruela lisa, uma arruela-freno e uma porca",
-            "Uma arruela simples, uma arruela-freno e uma porca castelo"
+         "title":{
+            "en":"U2FsdGVkX1//axyBKpQC6QhrRNDy9fGYbn8gIprTFnk=",
+            "br":"U2FsdGVkX1/wnbHaTw2ITWukG90/QD2Sp8/swBfNpRiigTqZonF0N1YRr3h2VC9M0C9HJaIwBzGOsi6N9l4g7tbuyzcN4A/1dhbxFCVAArBoxzqg4mIuud28+c6ZEv5oSenBA/QVN3cUsjIgpBFAr5VwAJfbtu6n5uNCQcvVvhg="
+         },
+         "result":[
+            0
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+TR9G60xIB0mzL5ITyyVP11wNiUMpcsuQ=",
+               "U2FsdGVkX1/OhC8dz6k7pBUax9Y40Ey9LRM5tFzE7k8=",
+               "U2FsdGVkX19esvC/5+UC7T3IbS9fdiOBQL6xbKulR74=",
+               "U2FsdGVkX18Nyptpfm7vKFP3YxibRmqTchLkTCPNuV4="
+            ],
+            "br":[
+               "U2FsdGVkX1/LaRm1cDAHI5DIcvrjJRPr6jXM+XEW6lYO4RgsXrtWI7ZfQSbOxf6q7g8LhsXdv78zMdc2uSDLaqCbOb8fXcxrr3M/TjIChGCDy3qHqnt1ER0mhQQMvz0a",
+               "U2FsdGVkX1/AZ+D2LdS/O7tY6PmVozFgaif0NBC5hDWbpBWErEGSueVkPRO3eMZkVP1ywcbb+xuaKL3kMA1nWg==",
+               "U2FsdGVkX1/wQ9o7g2N+vYCTZMWO0768PAgRZ+uvYUYmb57RFTajVSxqTEbsBlU/1t5ZlDpq6I0Ux0wHJjsg0g7kytwbVBlZ8eC/4e681SCwii9RhEMMOHMPivrEKnHu",
+               "U2FsdGVkX1/nKDkoqSnBmh2vWRPbJq/2ivpJYOUeGMwrZhVRr3gGvmXFC3oX4wCGkEvaH0g77hW8+1tY3ucXj76W28qTmGd6rug+966D1f89zlUKIQs0LxN0jfD+HTwA"
+            ]
+         },
          "number":20
       },
       {
-         "title":"As baterias que possuem como componente químico o eletrólito KOH são:",
-         "result":3,
-         "options":[
-            "Níquel-Cádmio e Chumbo-ácido",
-            "Chumbo-ácido e Lítio",
-            "Níquel-Cádmio e Lítio",
-            "Prata-zinco e Níquel-Cádmio"
+         "title":{
+            "en":"U2FsdGVkX1/Skk/S1KjH5Xk1PpavvdDqYeexLiDOTzs=",
+            "br":"U2FsdGVkX1/PB0V59NckizVKWE9R+lfT2OKQRof/lDLyfo0eEmvnVFoBVdSYyRBn9Elfuzbs+jynuxdCeLRo6wlISgINk3W/5t9Nb21DOb3lqcNeqy0VOpSX9dHkdLEtw0og5kPRFKhkq7pna5mncdnMNBTY86CW1FWfPZgIjBk="
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19DzAayW59M1N1OT76C5rLhDwvXYJo6CzY=",
+               "U2FsdGVkX18uFZRsmIvv2hKzPtAJENCmq499TI+2jSA=",
+               "U2FsdGVkX18fufVSmGO6PvUv+ht+NgTlsKHLqsU1q/0=",
+               "U2FsdGVkX1/bfGS51Ve3LHUXXiZaDN3SnBpbpIKxV9g="
+            ],
+            "br":[
+               "U2FsdGVkX18+LJhwbgNjCaNxtehpLri9V8XqM9hI5jwTJZT44NOdMd8wwViGnM0A",
+               "U2FsdGVkX18sXbj4OXza9p3iB3g/FWZH7+qkvv5LEJPLJDR4ciUluA0WAY1546cZwuH8pQQlnw2AMUYwwK+v4A==",
+               "U2FsdGVkX18sKFxyA3PaLJULwzEIj2xDD0n7TKqyjCozqEPnOm4m4GGRfzn+1XIa",
+               "U2FsdGVkX19opPSPck2iM2KGj6QotXaPtTAcH/Q20oP5xHtwWLaGgT47dwj2r9Qu"
+            ]
+         },
          "number":21
       },
       {
-         "title":"O componente usado como dispositivo de proteção que basicamente é o casamento de um relê e um disjuntor é:?",
-         "result":1,
-         "options":[
-            "CB",
-            "RCCB",
-            "RBCC",
-            "RCBC"
+         "title":{
+            "en":"U2FsdGVkX1+rDgG1Yg6iablBDaVTWILJA8T1EXAlwAg=",
+            "br":"U2FsdGVkX1+MXW8E/bvJSSnLdjNEUzy3PndWWQdf0LzoHNQ8YM20B2uOFdmgtUaQTMUXRusYw5rL/D+9wkDF88j0mDxCNyR4N53GJGAEbxL3CE1tOf/8twlX3PHn1ceN/KUK9V2g5afT0z8tdMHV1w=="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/+YjaTL0mMsKStaN7wHz8PHxwzqQE1HK0=",
+               "U2FsdGVkX18UkAmLJJ6WPiyckBws1udPF84ZjCFXqQ8=",
+               "U2FsdGVkX18Q+65BRqwi5UKX6fsEageX+oigewjl9FE=",
+               "U2FsdGVkX1/cC20Up0hAeybA8lpZ7jTz1SEQ4zn/dz8="
+            ],
+            "br":[
+               "U2FsdGVkX1+thpzJdjvDcxP4PSJrABsOUdg5K/zEjRj7nPXCifgUq13iBywAIaVTGauDM7RXeF3p+xbjyT9AoQ==",
+               "U2FsdGVkX18nMRX5CmDgtt9wQR54DqWlCj/xqoERY4+Af1dAW6PBT5VxbD8n7D+GEg+omrXTgH3YjIkq09i1wQ==",
+               "U2FsdGVkX1/4Z3+qTZnDf690zYZpIisStEQSDL52hoF77J1/QoPUgfMpJI+DI4k1X7wAA9Epmj9eS8i9oteuJQ==",
+               "U2FsdGVkX18+/2kWiVrh9LdIpvV91JByeNb6SJyU2MnG1z2IRn9wEko7zLIRJdghqbHWIim4w3SqrG/kwTnKQw=="
+            ]
+         },
          "number":22
       },
       {
-         "title":"Os interruptores de duas posições 'liga-desliga' devem ser instalados de modo que a posição 'liga' seja alcançada movimentando-se:",
-         "result":3,
-         "options":[
-            "A alavanca simplesmente para um locado ou para o outro",
-            "A alavanca para direita ou para frente",
-            "A alavanca para cima ou para baixo",
-            "A alavanca para cima ou para frente"
+         "title":{
+            "en":"U2FsdGVkX1+NY5RSVlRnSwDJeThPbYd2z8im8qu+tXk=",
+            "br":"U2FsdGVkX1/aqelDfvjuBpAE9mfzxFFgJeIuTQD/0D//iblyLs2xiVMUWzjA/9V5rvYOXK9M3j/8DMtZhEdFoWBQQLG4PmoQjdz60xgojKHc1oSoyOFD+Mtq7YauKQxSnGNDnyleT7khLajnDydTAgLWk3+XKlMICosGaCIqCnOoisutUc2PI3OdNNADsvDk7jTsu6So7QcbDhUJO6+Al+nKdi916R0V1Sf9D1as7lQFEhgXMXFLb9SiUdR8Lqqg2yVR998a8zw9oQrKDpD5IhzvB1quPWeQvRLiL24D+2s="
+         },
+         "result":[
+            3
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX18fS9UcPvUo7wB91Zn7ombAnZn80jh52Mc=",
+               "U2FsdGVkX1+O7tVesMbeAT9Hrc/fX0+t9BJNN3oP1rU=",
+               "U2FsdGVkX1/4A5WM6T7TQ/kMfXEsQ0rzYoCmCXHm5GU=",
+               "U2FsdGVkX1/FVPOoJIASEaTv/2IUX0UkrxaygfbGqO4="
+            ],
+            "br":[
+               "U2FsdGVkX1/4vpJHR/mJ0jtiDJ2jEo3KFXfbNfnvz0M=",
+               "U2FsdGVkX19+ZVuC/cCJ2HAXv5+6bnD9ddcWTm1KMDU=",
+               "U2FsdGVkX18UeT0sa21TBeTvb/uQMp6Aply0skOhY3JEdCDUwIEug08XGIbnCm2eCuhp8EXkgAXorkO5gPNKvA==",
+               "U2FsdGVkX1/HN9FwVnCn9GJnr/7B8ZFncTvwvqTG9oej6NC46Xttmto4rE9h5cDp"
+            ]
+         },
          "number":23
       },
-
-
-
       {
-         "title":"Um fio com isolamentode de baixa temperatura não deve nunca ser usado para substituir um:",
-         "result":3,
-         "options":[
-            "fio com isolamento de baixa temperatura",
-            "fio sem isolamento de alta temperatura",
-            "fio com isolamento de alta temperatura",
-            "fio qualquer"
+         "title":{
+            "en":"U2FsdGVkX1/Y6287SQTu1KHOnD+zI0X7N9Zf8+CwUjY=",
+            "br":"U2FsdGVkX1++n5y++9k6w0HvjMThv9ivgk2n4Du5bHgquVewt+hU+Jf3MYZbng+W7BNGDisd/5Oa85eB7+erUbOZ9lvkNX721cyeAePBoZTHCVvEgW+5hBxA2rTlr6vt"
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1+gcmoaJ1ywFwdqvQCXtHgR8qTaduzpZLo=",
+               "U2FsdGVkX1/eVwiyzaPAaXQTOZ6PAn6zmWuE6LF2fdo=",
+               "U2FsdGVkX19m2GjqnQ1UbPxzvo0zSypZZghZDgH0f40=",
+               "U2FsdGVkX18r4TmgqEasPV8QK8ZF3AP2JRsS82D0ETQ="
+            ],
+            "br":[
+               "U2FsdGVkX18HrNcsmd3brrIssvyvSRbqmx6+d/iKx1M=",
+               "U2FsdGVkX1/vW0Tim1JD2xhjWp/5e607II6P5uq1Ia4=",
+               "U2FsdGVkX1/6LRMcXL6ae9G+WTcuFSKN5Izj5Z4PyGQ=",
+               "U2FsdGVkX18h3lMOjPQ941Y//NcINE/1riF64JyB/Ho="
+            ]
+         },
          "number":24
       },
-
       {
-         "title":"Os chicotes geralmente devem ser constiuídos com menos dê:",
-         "result":3,
-         "options":[
-            "45 fios onde possível",
-            "65 fios onde possível",
-            "55 fios onde possível",
-            "75 fios onde possível"
+         "title":{
+            "en":"U2FsdGVkX1+Fh1mK82+f32dVllqR2gCKLMgC97G6nGg=",
+            "br":"U2FsdGVkX1/Z3Hq0mUwJ0VsBHxx8RDdTMssviC8ghsR9EAbMWRG3ArXl8nRtv202G6zOgXLc8Q7u0gOh18RN5CZ2smCwn8a4+mvOGHoe7CXESkAza89F5zeDCY/FQJK8QMfhBkBc7B4Epwbyfh2KNg=="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/Tw+01ag6HV+xw0Wafr7qYk12bN88PFoU=",
+               "U2FsdGVkX1+dn1ZISc6ffDgHQ4mSm2i4tPi1tujghD4=",
+               "U2FsdGVkX1/exSYVq/PQeQSsRxt4s6nPOX7u/i7utbM=",
+               "U2FsdGVkX19oreY7gfFehbZSiMvu9R16O3lJIyYpPpM="
+            ],
+            "br":[
+               "U2FsdGVkX18dJ4LXprkukcQWW+kZpsTc8Kxj3EIvn3OEWo4z4OguzXDAqK7E5rAX",
+               "U2FsdGVkX18vgocojLmECxXreIB2IAaRnCK2hX8AIKYhlq7Py2q/t+foPBRSkLhd",
+               "U2FsdGVkX1/MGdreyv7JFEAaKFpe4vPEn9Wa04S2+hCbY+9d01tzr9Fxr30o9SFz",
+               "U2FsdGVkX19bJ9S7EnxJB8Q2j+HGr4sXoAPQAhqUXaCNyzSuMJsqdRunpl3B7YK/"
+            ]
+         },
          "number":25
       },
       {
-         "title":"Quando falamos de luz móvel que se acha instalada no topo da fuselagem ou na camada estmos falando dê:",
-         "result":0,
-         "options":[
-            "Luz de anticolisão",
-            "Luz de posição",
-            "Luz de pouso",
-            "Luz de inspeçãodas asas"
+         "title":{
+            "en":"U2FsdGVkX1+ErCr5Gu/JdjECB9TeFnVm+ReNC+/wyWU=",
+            "br":"U2FsdGVkX1/dB4hoJRws8+RTGhn/wPmw86ajt/lCnkbe7IB2cWVLKzQeol+jTSWOmka3NrtQpo6d3oi+nHPcKH/S5mJeudQw/vhgXJ84YGsoEuCaksrADv2wl8phBjLnCNDJokg5jFv4PBQ0ji21KgVinLK6c2bK7k+zb343QFmZsLXH8UGgwvWq/EvhXwAeKa6wNUA6SXe5JSCqBWUs5t/nq65mhKy2QjUBzL5JiF/06w63VdnSjnznudKkgcUR"
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX1/c2dRmnV8FKAUT3Btsiacwxn/YWLlwRkA=",
+               "U2FsdGVkX18R3xCgABwdGUhlrDxjE9t8+0Yv7j1cFak=",
+               "U2FsdGVkX1+CIj8njaOQH87q5X/L1BVtQA+UAZrhupE=",
+               "U2FsdGVkX1+7qaVoiqWzeaDb8sqEtQAfy7FOPNtSpwY="
+            ],
+            "br":[
+               "U2FsdGVkX1+7CBJK47hQhO33uWC+eZcYPtU4QGXzR7g33oJPFiMxlcT0KQrQjvwJ",
+               "U2FsdGVkX18ab2qFB92P/AI1FqL1wWqT9OQvey7u+VW7bBXEcZfBplI224SEj2/QfB21P3+MrHfnFqE5X+9vng==",
+               "U2FsdGVkX1+Kc78vZRVV0UdVYZawz0MnPSXhY09zYtU=",
+               "U2FsdGVkX187GtWo1bbrJk9He1qWNmZ7SmgoeDUjCnfx3uL6Sn5tLI8vamh6pALH"
+            ]
+         },
          "number":26
       },
       {
-         "title":"O cilindro do terminal de alumínio contém um composto dê:",
-         "result":1,
-         "options":[
-            "Silica gel",
-            "Pó de pretolato de zinco",
-            "Pó anti-oxidante",
-            "Peróxido anodizado"
+         "title":{
+            "en":"U2FsdGVkX19MEPJXpLQcWJvm0YFT/A/k4h9ZwUYLrR0=",
+            "br":"U2FsdGVkX1+jBcUkxJNl2h1tXRMPy+zf6vNPG8NnL8SUPsZJ4On39ewWx5l1zV6n7FcLtEG7sCJE3KFCtxZ1wQV0cLn+BAZD1szpVuPrAwJWlsXQsLqCzZigqfDLTNYaR1dO8XlZKEmosUSPRxVz24s+93aiNhUx59xuh9yrOpMjWD2Ah8q93zTq/hMV7l7LPspfc2AGdj8NaUd/rA+T+Q=="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX181/9ofGhiT1g5uLtGiN9RaPKGxbMR9LTk=",
+               "U2FsdGVkX1+jSoEZpT7mOGvzoRCRF3wc19aOFbj7W+k=",
+               "U2FsdGVkX1+KrkMZpqSHEgh3wO6AAwiTq4OffTrHdJk=",
+               "U2FsdGVkX1/UftnwYgHsIWNIK4E7a7eaf3hmemijK94="
+            ],
+            "br":[
+               "U2FsdGVkX1/9MaoriK/zoqmve1gl8BFAa6ht30AUR4DeOiHjKeOccP70Tf7gl6Nj",
+               "U2FsdGVkX1/Iyl16Y89kR/djgmoVAbpcCmWFbckLTIE=",
+               "U2FsdGVkX18LYH1A8/RNNhJLQzDvxGBwY0bb5NsTfiQ=",
+               "U2FsdGVkX1/+2DQMxOTFk4/kHr9KuPQkLA/eslFmQ7g="
+            ]
+         },
          "number":27
       },
       {
-         "title":"Qual o tipo de material usando para lançar um chicote?",
-         "result":2,
-         "options":[
-            "Durex",
-            "Nylon",
-            "Barbante",
-            "Linha"
+         "title":{
+            "en":"U2FsdGVkX1/ScT0R6vnDDPb3OPYzHjjTzUp2s6wiuGw=",
+            "br":"U2FsdGVkX1/kJ66kvv7UcTRcZ1rZwqYtTmY4yxgbkfu4RSJnyJvQRcHYbwF7HZMe+gq1CQYEdiW6x+2VJ1uAqWzVpUZEWhgBudnZSuhVUClval+zqOwhnArJpLsmobVv"
+         },
+         "result":[
+            1
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX19lSHN5PlTqc1jXcIS32uwYB5CLyMWKY6M=",
+               "U2FsdGVkX18FBWC8zqrZ6+7yj3IAYB308+Wo47UnPVg=",
+               "U2FsdGVkX18h+THUFUu99Ls6kgcREUPZtUpyOBsMG4U=",
+               "U2FsdGVkX1/DwTHuaQwff4YHDGWJLjWPriqMOj9YPJI="
+            ],
+            "br":[
+               "U2FsdGVkX18bl3RGP5oVnedNfT4nbKj67YtyJXQED54=",
+               "U2FsdGVkX1/kU4mArtAQ6rtp7n54MVwnMPJCFaLwW0Q=",
+               "U2FsdGVkX1/kiyVcJOxk3WoKCBXDWSVUjX7DJPUqsGbhYhlJ8SVs6AE8IUaL7GjL",
+               "U2FsdGVkX1+7Ue72YtJ1+ot+uyqAFBkXCNvO++Iydt4="
+            ]
+         },
          "number":28
       },
       {
-         "title":"A aeronve que opera à noite deve ser equipada com luzes de posição que se enquadrem nas recomendações mínimas especificadas:",
-         "result":3,
-         "options":[
-            "ANAC",
-            "Fabricante",
-            "Infraero",
-            "FAA"
+         "title":{
+            "en":"U2FsdGVkX1+0YW3RMBnEIbaccJG7fZdJkAxM2HdorgQ=",
+            "br":"U2FsdGVkX1/II1zFlI7gax2iE6rRqo2c8IGgSRrYy6MkZ+O1XduiBJ35Md5pABizuxiVc55UjlBlT1+RgUSB+A=="
+         },
+         "result":[
+            2
          ],
+         "options":{
+            "en":[
+               "U2FsdGVkX18B1cWdbjFLIl/ehHi0Cb0EnNcAsyNKwe8=",
+               "U2FsdGVkX19/4qIgG+2qfk9jrr1jbx1H9qHGVSE7p4U=",
+               "U2FsdGVkX19hAvr8LBs8rSKLF4dUqZ6c/ane6YPutx4=",
+               "U2FsdGVkX1/+tLNnkMqahIdxzA2bRel6GRlkfdSv73Y="
+            ],
+            "br":[
+               "U2FsdGVkX19AOIWIAyZ05hH1+Qtkx0ZDwVPp3/tQB+NGq7KfJY4ylFbYF5BrqlPPMBuvllJFerhPH0RZQX9pdVO0AwWD5NE5KGNmrFK75M0DQPMVDud/PMi2SOMGUK5Q6omtVfasscEqRyv64BRhew==",
+               "U2FsdGVkX1/bp4UxP43dznO19fG6428z36u5ffP8/PYCa8wE/J8K8ZIIs1AC7CdGPDWAH847NKrsxUQQWeHty8XWaIesAKu6/HALKJ0JhL5kclJylo9N3AoFTpzLv5eXGntA6xwnRBHX0953jaoI0A==",
+               "U2FsdGVkX18mDz2EUzt8lVjhN8ayktKqTtVLqtbMFMIQDh7xt1g25BLJ83S+ONkCU8YY3jkIUenfMSrBnTaMbuP23hdgH7q0aY0Go9otvzcD23P3ykgU6+0R9a7Y1mBsldz6gJ2icIsCEhYUX7CH0g==",
+               "U2FsdGVkX18xxLSJ/vUrOD8ls/+SzfUxBEzW/uT5EivsAOT6BoXVOFVPTev7ghPsgRqdZR1I4HuSx00Hwqco3BGDrFXx8l0B19t1IBnogFz8qqhYgF6jyYAdlH6eg5T5wuON4l633L8p/CYbGUo7pA=="
+            ]
+         },
          "number":29
+      },
+      {
+         "title":{
+            "en":"U2FsdGVkX1+fxs2VmiYYabmWsotLiiNeJczXoo7i4b0=",
+            "br":"U2FsdGVkX19kWdwUMR5Ji4kRXTQXIRZjETweaQA4iywGUK9GfxWraqgTpUOcg7jJD6/xy86XMBQSMjr/4iuLJKdKXSq+FBv2n8HOosnCbt9cE8rhgLTqQq7DAxhGtd6AiKoJmTNo5D8+4hRbmXDlIWfKkNIyG+0hC372xU71dzO+3C26d+cIxwkV2ppxjV8rIj4LuE6eM5XR3cKXMmKBJjQVpb49uckuOAsYRoRZY902HtxG/4RhLehqBUrKEPSIIWmRn40G4D2/9bjL8n7pPkEfWuz6qJM6C9nOGSZSvho="
+         },
+         "result":[
+            3
+         ],
+         "options":{
+            "en":[
+               "U2FsdGVkX191uC0h8+tGT0+C+0TXqhx6Yeruoe3OLb0=",
+               "U2FsdGVkX1//hxDzMXmaeuLZrhB9ST4eJizCvPrdog0=",
+               "U2FsdGVkX1/ip1JYFjgDi7MWHpN0z7MwrydswiOsA7s=",
+               "U2FsdGVkX1/CdZBt4JeuaaNc+TO7uXUv21hfkz6pY+4="
+            ],
+            "br":[
+               "U2FsdGVkX1+ZBKc5cZoo5XND/HiTjsAUbAJ8TnOXYKs=",
+               "U2FsdGVkX19dj3tqcnRYvGH6b/ZmMuacQyi3yNLQmXQ=",
+               "U2FsdGVkX1+m6q8SxtR8JMDFu1q2l5JorOxP/5GtDPt9ULJ0Z3rjMDOzx5pk07L7",
+               "U2FsdGVkX19EoJBJoZ/8R/d0kGDvaqivPhH2U7lZJ8zPFhcMA4llYEE4V7PMSKjy"
+            ]
+         },
+         "number":30
       }
    ]
 }
