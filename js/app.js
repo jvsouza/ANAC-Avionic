@@ -23,7 +23,8 @@ const coursesUpdated = {
         {"file_json":"avi05", "course_unit":"05 - Electric Engine Starting And Ignition Systems"},
         {"file_json":"avi06", "course_unit":"06 - Electrical Protection Systems Against The Effects Of Ice, Rain And Fire"},
         {"file_json":"avi07", "course_unit":"07 - Communication and Navigation Systems"},
-        {"file_json":"avi08", "course_unit":"08 - Avionics Instrumentation"}
+        {"file_json":"avi08", "course_unit":"08 - Avionics Instrumentation"},
+        {"file_json":"avi_aerotd_2021-2", "course_unit":"09 - Mock exam :: Aerotd 2021-2"}
     ]
 };
 

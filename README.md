@@ -16,6 +16,10 @@
 | Avi | 07 | ![](https://img.shields.io/badge/-Done-success) | Communication and Navigation Systems |
 | Avi | 08 | ![](https://img.shields.io/badge/-Done-success) | Avionics Instrumentation |
 
+## Mock exams were included:
+| Type | Index | Progress | Contet |
+| :--: | :---: | :------: | :----- |
+| Cel | 09 | ![](https://img.shields.io/badge/-Done-success) | AeroTD 2021-2 |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
@@ -35,7 +39,8 @@ page
 │   ├── avi05.json
 │   ├── avi06.json
 │   ├── avi07.json
-│   └── avi08.json
+│   ├── avi08.json
+│   └── avi_aerotd_2021-2.json
 ├── README.md
 ├── favicon.png
 └── index.html
