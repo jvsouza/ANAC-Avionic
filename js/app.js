@@ -1,7 +1,3 @@
-/*
-    https://stackoverflow.com/questions/42218699/chrome-violation-violation-handler-took-83ms-of-runtime
-*/
-
 // ...
 var keyPass = '' ;
 var questions_available = [];
